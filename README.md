@@ -1,6 +1,6 @@
 # YT & Website Summarizer
 
-Paste a YouTube link or a blog URL, and get a short summary that reads like a person wrote it, not a template.
+Paste a YouTube link or a blog URL, and get a short summary that reads like a person wrote it.
 
 I built this because I was tired of opening a 40-minute video or a long article just to find out it wasn't worth my time. Now I paste the link, read 300 words, and decide.
 
