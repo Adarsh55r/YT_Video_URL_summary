@@ -1,0 +1,7 @@
+youtube_transcript_api
+validators == 0.28.1
+langchain
+langchain_community
+streamlit
+langchain_groq
+unstructured
